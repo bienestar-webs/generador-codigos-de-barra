@@ -211,6 +211,15 @@ h6 {
 
 
 
+
+
+
+
+
+
+
+
+
  /* Responsividad */
 
 
@@ -222,6 +231,12 @@ h6 {
     body {
         margin-top: 30%;
     }
+
+    .Logobienestar {
+        width: 85px;
+        height: auto;
+    }
+  
  
     .contenedor { max-width: 95%; }
 }
@@ -235,6 +250,10 @@ h6 {
 
     body {
         margin-top: 30%;
+    }
+    .Logobienestar {
+        width: 80px;
+        height: auto;
     }
 
     .contenedor { padding: 10px; }
@@ -250,6 +269,12 @@ h6 {
 
     body {
         margin-top: 30%;
+    }
+
+
+    .Logobienestar {
+        width: 75px;
+        height: auto;
     }
 
 
